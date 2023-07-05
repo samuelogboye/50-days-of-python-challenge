@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 
 def number_enrolled(a_list):
     new = []
@@ -6,5 +8,8 @@ def number_enrolled(a_list):
     output = [('Male'), new.count('male'), ('female'), new.count('female')]
     return output
 
+
 students = ['Male', 'Female', 'female', 'male', 'male', 'male',
             'female', 'male', 'Female', 'Male', 'Female', 'Male', 'female']
+
+print(number_enrolled(students))

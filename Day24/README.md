@@ -4,6 +4,7 @@ average calories intake of a user. The function should ask the user
 to input their calories intake for any number of days and once they
 hit ‘done’ it should calculate and return the average intake.
 
+
 ## Extra Challenge: Create a Nested List
 Write a function called nested_lists that takes any number of
 lists and creates a 2-dimensional nested list of lists. For example,

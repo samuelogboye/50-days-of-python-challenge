@@ -11,7 +11,7 @@ def find_index(a, b):
     if b in a:
         for num in a:
             if num == b:
-                new_list.append(a.index(b))
+                new_list.append(a.index(num))
         return new_list
     for num in range(len(a)):
         new_list.append(b)

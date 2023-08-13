@@ -9,9 +9,9 @@ def find_index(a, b):
     """
     new_list = []
     if b in a:
-        for num in a:
+        for index, num in enumerate(a):
             if num == b:
-                new_list.append(a.index(num))
+                new_list.append(index)
         return new_list
     for num in range(len(a)):
         new_list.append(b)

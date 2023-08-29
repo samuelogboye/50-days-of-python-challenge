@@ -5,13 +5,13 @@ information in the table below. Basically, you are going to
 recreate this table using pandas. Use the information in the table
 to recreate the table.
 
-|   | Year | Title      | Genre   |
-|---|------|------------|---------|
-|   | 2009 | Brothers   | Drama   |
-|   | 2002 | Spider-Man | Sci-fi  |
-|   | 2009 | WatchMen   | Drama   |
-|   | 2010 | Inception  | Sci-fi  |
-|   | 2009 | Avatar     | Fantasy |
+| Year | Title      | Genre   |
+|------|------------|---------|
+| 2009 | Brothers   | Drama   |
+| 2002 | Spider-Man | Sci-fi  |
+| 2009 | WatchMen   | Drama   |
+| 2010 | Inception  | Sci-fi  |
+| 2009 | Avatar     | Fantasy |
 
 
 
